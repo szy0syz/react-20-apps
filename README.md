@@ -21,6 +21,6 @@
 - B07 - Chart the Weather
 - B08 - Shopping Cart
 
-## Notes
+## Preview
 
-- `svg` 可以作为 `component` 引入项目
+![a06](preview/a06.gif)
