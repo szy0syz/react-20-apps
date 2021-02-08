@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "marked": "^1.1.1",
+    "marked": "^2.0.0",
     "react-markdown": "^4.3.1",
     "umi": "^3.2.14"
   }
